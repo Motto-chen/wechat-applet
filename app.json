@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/classification/classification",
+    "pages/list/index",
+    "pages/cart/index",
+    "pages/user/index",
+    "pages/auth/auth",
+    "pages/details/index",
+    "pages/bindPhone/index",
+    "pages/coupon/index",
+    "pages/order/index",
+    "pages/addressList/index",
+    "pages/addressAdd/index",
+    "pages/orderDetails/index"
+  ],
+  "window": {
+   "enablePullDownRefresh": true,
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFB5C5",
+    "navigationBarTitleText": "小熊猫商城",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "backgroundColor": "#fff",
+    "borderStyle": "white",
+    "color": "#333",
+    "selectedColor": "#ff5f19",
+    "list": [
+      {
+        "selectedIconPath": "images/home_page_n.png",
+        "iconPath": "images/home_page_y.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },     
+       {
+        "selectedIconPath": "images/newopen.png",
+        "iconPath": "images/new.png",
+        "pagePath":"pages/classification/classification",
+        "text": "分类"
+      },
+      {
+        "selectedIconPath": "images/Shopping.png",
+        "iconPath": "images/shopping_select.png",
+        "pagePath": "pages/cart/index",
+        "text": "购物车"
+      },
+      {
+        "selectedIconPath": "images/my_y.png",
+        "iconPath": "images/my_n.png",
+        "pagePath": "pages/user/index",
+        "text": "我的"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,15 @@
+ 
+<!--主盒子--> 
+  <view class="container">
+  <!--左侧分类菜单  -->
+    <view class="nav_left">
+    <block wx:for="{{navLeftItems}}" bindtap='cateTab'>
+      <view class="nav_left_items {{curNav == item.id ? 'active' : ''}}" data-id="{{item.id}}" data-index="{{index}}" >{{item.name}}</view> 
+    </block>
+    </view>
+  <!--右侧数据  -->
+    <view class="right-box}">
+      <view class='foods-type-box'>
+      </view> 
+    </view>
+  </view>
