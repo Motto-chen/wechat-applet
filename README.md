@@ -1,32 +1,11 @@
 # 微信小程序实现移动端商城
 
 ## 说明
-```
-
->  如果对您有帮助，您可以点右上角 "Star&fork" 支持一下 谢谢！ ^_^
-
->  博客地址:https://juejin.im/post/5b836d056fb9a019f671320f
-
->  配置HTTPS：https://juejin.im/post/5b88b58151882542db3bedf7
-
->  服务端:https://github.com/FZliweiliang/wechat-app-mall-server
+>  写来玩儿的，并不完善
 
 >  提示小程序大于2M可以把screenshot文件夹删除
 ```
 
-### 项目截图:
-
-<img src="https://github.com/474782977/wechat-app-mall/blob/master/screenshot/1.png" width="320px" style="display:inline;">
-<img src="https://github.com/474782977/wechat-app-mall/blob/master/screenshot/2.png" width="320px" style="display:inline;">
-<img src="https://github.com/474782977/wechat-app-mall/blob/master/screenshot/3.png" width="320px" style="display:inline;">
-<img src="https://github.com/474782977/wechat-app-mall/blob/master/screenshot/4.png" width="320px" style="display:inline;">
-<img src="https://github.com/474782977/wechat-app-mall/blob/master/screenshot/5.png" width="320px" style="display:inline;">
-<img src="https://github.com/474782977/wechat-app-mall/blob/master/screenshot/6.png" width="320px" style="display:inline;">
-<img src="https://github.com/474782977/wechat-app-mall/blob/master/screenshot/7.png" width="320px" style="display:inline;">
-<img src="https://github.com/474782977/wechat-app-mall/blob/master/screenshot/8.png" width="320px" style="display:inline;">
-<img src="https://github.com/474782977/wechat-app-mall/blob/master/screenshot/9.png" width="320px" style="display:inline;">
-<img src="https://github.com/474782977/wechat-app-mall/blob/master/screenshot/10.png" width="320px" style="display:inline;">
-<img src="https://github.com/474782977/wechat-app-mall/blob/master/screenshot/11.png" width="320px" style="display:inline;">
 
 ## 项目布局
 ```
