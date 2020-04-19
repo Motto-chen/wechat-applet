@@ -6,7 +6,7 @@ App({
      "AppSecret":"nMvCxGhDsUlGiZrBiPdReCbMcGmRmPcV",
      "openid":{},
      "userInfo":{},
-     "url":"http://106.12.152.127/api/"
+     "url":"http://cc.chen521.xyz/api/"
   },
   get onReady() {
     return this._onReady
